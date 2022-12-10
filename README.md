@@ -36,9 +36,6 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 ![](https://komarev.com/ghpvc/?username=Deepaksntiwari&label=Visitors+Count&color=brightgreen)
