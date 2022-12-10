@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫About Me :
-🔭 I’m currently working on Implementation of the Google Sheets API using Java
+🔭 I’m currently working on personal projects
 
-🌱 I’m currently Interning at Evalground
+🌱 I’m currently a software developer at Evalground
 
 
 ## 🌐Socials
